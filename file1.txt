@@ -2,3 +2,7 @@ Tole je test
 vrstica 2
 vrstica 3
 Salama
+
+public static void main(String[] args){
+	System.out.println()
+}
