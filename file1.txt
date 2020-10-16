@@ -1,2 +1,3 @@
 Tole je test
 vrstica 2
+vrstica 3
