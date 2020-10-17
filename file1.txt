@@ -2,3 +2,11 @@ Tole je test
 vrstica 2
 vrstica 3
 Salama
+sir
+
+public static void main(String[] args){
+	System.out.println()
+}
+
+end
+github add
